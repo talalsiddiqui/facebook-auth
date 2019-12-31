@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Install All Packages using <br />
 
 - `yard install` <br />
-  OR <br />
+  OR
 - `npm install` <br />
 
 ### `How To Use`
